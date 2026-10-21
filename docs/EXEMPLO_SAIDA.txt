@@ -1,0 +1,11 @@
+FITLIFE — Demonstração Aula 15 / Unidade 4
+1 - Mensal | R$ 100,00
+2 - Premium | R$ 150,00
+1 - João Silva | joao@email.com | 20 anos | Plano: Mensal | Treinos: 1
+2 - Maria Souza | maria@email.com | 15 anos | Plano: Premium | Treinos: 1
+Treinos de João:
+1 - Treino A | Musculação de membros superiores | 45 min
+Pagamento realizado com sucesso! Cliente: João Silva | Plano: Mensal | Competência: 2026-10 | Valor: R$ 100,00
+Pagamento realizado com sucesso! Cliente: Maria Souza | Plano: Premium | Competência: 2026-10 | Valor: R$ 150,00
+Validação esperada: Idade mínima é 15 anos.
+Validação esperada: Mensalidade já paga nesta competência.

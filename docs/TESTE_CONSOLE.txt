@@ -1,0 +1,72 @@
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: Erro: digite um número inteiro válido.
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: Nome: E-mail: Idade: Cliente cadastrado! ID: 1
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: 1 Mensal (R$ 100,00) | 2 Premium (R$ 150,00): Plano cadastrado! ID: 1
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: ID do cliente: ID do plano: Plano associado com sucesso!
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: ID do cliente: Nome do treino: Descrição: Duração em minutos: Treino cadastrado: Treino A | Força | 45 min
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: ID do cliente: Competência (AAAA-MM): Erro: use uma competência válida no formato AAAA-MM.
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: ID do cliente: Competência (AAAA-MM): Pagamento realizado com sucesso! Cliente: Ana | Plano: Mensal | Competência: 2026-10 | Valor: R$ 100,00
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: ID do cliente: Competência (AAAA-MM): Erro: Mensalidade já paga nesta competência.
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: 1 - Ana | ana@email.com | 15 anos | Plano: Mensal | Treinos: 1
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: 1 - Mensal | R$ 100,00
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: ID do cliente: 1 - Treino A | Força | 45 min
+
+FITLIFE — Aula 15 / Unidade 4
+1 Cadastrar cliente | 2 Cadastrar plano | 3 Associar plano
+4 Cadastrar treino | 5 Pagar mensalidade | 6 Listar clientes
+7 Listar planos | 8 Ver treinos | 0 Sair
+Opção: Sistema encerrado.
